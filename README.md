@@ -8,7 +8,10 @@ I'm Baris and i'm web developer
 👨‍💻 I'm working on project with laravel. <br/>
 📚 I'm learning new technologies. (React / Node.js / Go) <br/>
 ❤️ EDM Lover <br/>
-♟️ Chess player and indie gamer<br/>
+♟️ Chess player and indie gamer<br/><br/>
+
+👉 <a href="works/" target="_blank">Works</a>
+
 
 #### Tech Stack
 PHP / MYSQL / PostgreSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / TAILWIND / BULMA / LARAVEL / CODIGNITER / GITHUB / APACHE / NGINX / REST API / NPM / COMPOSER
